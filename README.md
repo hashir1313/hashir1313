@@ -13,7 +13,6 @@
 - 🌱 Always learning and exploring new technologies
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js**
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hashir1313)
-- ⚡ Fun fact: I turn coffee into code
 
 ---
 
@@ -36,74 +35,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashir1313&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashir1313&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ### 🔥 Streak Stats
 
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hashir1313&theme=radical&hide_border=true)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=hashir1313&theme=radical&no-frame=true&no-bg=true&column=7)
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/hashir1313/hashir1313/output/github-snake-dark.svg)
-
-</div>
-
----
-
-### 📌 Pinned Repositories
-
-<div align="center">
-
-| Repository | Description | Language |
-|-----------|-------------|----------|
-| [invento](https://github.com/hashir1313/invento) | Modern inventory management system | JavaScript |
-
-</div>
-
----
-
-### 💡 Random Dev Quote
-
-<div align="center">
-
-![Readme Quotes](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=hashir1313&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-
-[![GitHub followers](https://img.shields.io/github/followers/hashir1313?style=social)](https://github.com/hashir1313)
 
 </div>

@@ -12,7 +12,9 @@
 - 🔭 Currently working on **next-level web solutions**
 - 🌱 Always learning and exploring new technologies
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js**
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hashir1313)
+- 📫 How to reach me:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir-web-dev)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1256072561788457033)
 
 ---
 
